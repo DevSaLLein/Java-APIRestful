@@ -27,4 +27,4 @@ Apenas um template inicial para os meus projetos em Back-end com Java Spring Boo
 
 Este projeto está sob a licença MIT.
 
-⌨️ feito❤️por[DevSaLLein](https://github.com/DevSaLLein) 😊
+⌨️ feito ❤️ por [DevSaLLein](https://github.com/DevSaLLein) 😊
