@@ -28,4 +28,4 @@ Just an initial template for my Back-end projects with Java Spring Boot
 
 This project is under the MIT license.
 
-⌨️ with❤️by[DevSaLLein](https://github.com/DevSaLLein) 😊
+⌨️ with ❤️ by [DevSaLLein](https://github.com/DevSaLLein) 😊
