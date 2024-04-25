@@ -15,9 +15,8 @@
 
 # Java APIRestful 
 
-
 ## About
-Just an initial template for my Back-end projects with Java Spring Boot
+Apenas um template inicial para os meus projetos em Back-end com Java Spring Boot
 
 ## Technologies used🧑‍💻
 ![Java](https://img.shields.io/badge/JavaSpring-green?style=for-the-badge&logo=spring&logoColor=white)
@@ -26,6 +25,6 @@ Just an initial template for my Back-end projects with Java Spring Boot
 
 ## :memo: License
 
-This project is under the MIT license.
+Este projeto está sob a licença MIT.
 
-⌨️ with❤️by[DevSaLLein](https://github.com/DevSaLLein) 😊
+⌨️ feito❤️por[DevSaLLein](https://github.com/DevSaLLein) 😊
